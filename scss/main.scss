@@ -1,0 +1,19 @@
+//globals
+@import 'custom';
+
+//components
+@import 'components/animations';
+@import 'components/buttons';
+@import 'components/mixins';
+@import 'components/typography';
+
+//sections
+@import 'sections/navbar';
+@import 'sections/intro';
+@import 'sections/companies';
+@import 'sections/services';
+@import 'sections/testimonils';
+@import 'sections/faq';
+@import 'sections/portfolio';
+@import 'sections/getstarted';
+@import 'sections/footer';

@@ -1,0 +1,21 @@
+//color-variables
+$white:    #fff;
+$gray-100: #f8f9fa;
+$gray-200: #e9ecef;
+$gray-300: #dee2e6;
+$gray-400: #ced4da;
+$gray-500: #adb5bd;
+$gray-600: #6c757d;
+$gray-700: #495057;
+$gray-800: #343a40;
+$gray-900: #212529;
+$black:    #000;
+
+$purple:  #6f42c1;
+$pink:    #d63384;
+
+$primary: $purple;
+$secondary: $pink;
+
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";

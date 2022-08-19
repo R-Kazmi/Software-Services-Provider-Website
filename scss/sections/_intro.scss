@@ -1,0 +1,27 @@
+@import '../custom';
+@import '../components/mixins';
+
+.intro-section{
+    @include gradient;
+    padding: 10rem 0 0 0;
+    width: 100%;
+    height: 100%;
+}
+
+.intros{
+
+    .video-box{
+        position: relative;
+
+        a{
+            @include absoluteCenter;
+            
+            span{
+                font-size: 4rem;
+                background-color: #d63384;
+                border-radius: 50%;
+            }
+        }
+    }
+}
+
