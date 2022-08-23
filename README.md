@@ -6,4 +6,4 @@ Made with Sass and bootstrap
 </br>
 It is a website for software service provider buisness
 </br>
-Design is a clone
+Original website was made in a scss course
